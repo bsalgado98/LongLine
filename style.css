@@ -1,0 +1,20 @@
+#navbar {
+    display: flex;
+    width: 100%;
+    background-color: darkslategrey;
+}
+
+#title {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 1%;
+}
+#title h4 {
+    padding-left: 5%;
+}
+#controls {
+    display: flex;
+    align-content: stretch;
+    width: 100%;
+}
